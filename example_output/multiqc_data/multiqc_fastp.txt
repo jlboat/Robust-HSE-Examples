@@ -1,0 +1,25 @@
+Sample	command
+W55_M_1_1	fastp -i ./BayesASE/example_in/reads/W55_M_1_1.fastq -o ./fastp/W55_M_1_1.trimmed -j ./fastp/W55_M_1_1_fastp.json -h ./fastp/W55_M_1_1_fastp.html 
+W55_M_1_2	fastp -i ./BayesASE/example_in/reads/W55_M_1_2.fastq -o ./fastp/W55_M_1_2.trimmed -j ./fastp/W55_M_1_2_fastp.json -h ./fastp/W55_M_1_2_fastp.html 
+W55_M_1_3	fastp -i ./BayesASE/example_in/reads/W55_M_1_3.fastq -o ./fastp/W55_M_1_3.trimmed -j ./fastp/W55_M_1_3_fastp.json -h ./fastp/W55_M_1_3_fastp.html 
+W55_M_1_4	fastp -i ./BayesASE/example_in/reads/W55_M_1_4.fastq -o ./fastp/W55_M_1_4.trimmed -j ./fastp/W55_M_1_4_fastp.json -h ./fastp/W55_M_1_4_fastp.html 
+W55_M_2_1	fastp -i ./BayesASE/example_in/reads/W55_M_2_1.fastq -o ./fastp/W55_M_2_1.trimmed -j ./fastp/W55_M_2_1_fastp.json -h ./fastp/W55_M_2_1_fastp.html 
+W55_M_2_2	fastp -i ./BayesASE/example_in/reads/W55_M_2_2.fastq -o ./fastp/W55_M_2_2.trimmed -j ./fastp/W55_M_2_2_fastp.json -h ./fastp/W55_M_2_2_fastp.html 
+W55_M_2_3	fastp -i ./BayesASE/example_in/reads/W55_M_2_3.fastq -o ./fastp/W55_M_2_3.trimmed -j ./fastp/W55_M_2_3_fastp.json -h ./fastp/W55_M_2_3_fastp.html 
+W55_M_2_4	fastp -i ./BayesASE/example_in/reads/W55_M_2_4.fastq -o ./fastp/W55_M_2_4.trimmed -j ./fastp/W55_M_2_4_fastp.json -h ./fastp/W55_M_2_4_fastp.html 
+W55_M_3_1	fastp -i ./BayesASE/example_in/reads/W55_M_3_1.fastq -o ./fastp/W55_M_3_1.trimmed -j ./fastp/W55_M_3_1_fastp.json -h ./fastp/W55_M_3_1_fastp.html 
+W55_M_3_2	fastp -i ./BayesASE/example_in/reads/W55_M_3_2.fastq -o ./fastp/W55_M_3_2.trimmed -j ./fastp/W55_M_3_2_fastp.json -h ./fastp/W55_M_3_2_fastp.html 
+W55_M_3_3	fastp -i ./BayesASE/example_in/reads/W55_M_3_3.fastq -o ./fastp/W55_M_3_3.trimmed -j ./fastp/W55_M_3_3_fastp.json -h ./fastp/W55_M_3_3_fastp.html 
+W55_M_3_4	fastp -i ./BayesASE/example_in/reads/W55_M_3_4.fastq -o ./fastp/W55_M_3_4.trimmed -j ./fastp/W55_M_3_4_fastp.json -h ./fastp/W55_M_3_4_fastp.html 
+W55_V_1_1	fastp -i ./BayesASE/example_in/reads/W55_V_1_1.fastq -o ./fastp/W55_V_1_1.trimmed -j ./fastp/W55_V_1_1_fastp.json -h ./fastp/W55_V_1_1_fastp.html 
+W55_V_1_2	fastp -i ./BayesASE/example_in/reads/W55_V_1_2.fastq -o ./fastp/W55_V_1_2.trimmed -j ./fastp/W55_V_1_2_fastp.json -h ./fastp/W55_V_1_2_fastp.html 
+W55_V_1_3	fastp -i ./BayesASE/example_in/reads/W55_V_1_3.fastq -o ./fastp/W55_V_1_3.trimmed -j ./fastp/W55_V_1_3_fastp.json -h ./fastp/W55_V_1_3_fastp.html 
+W55_V_1_4	fastp -i ./BayesASE/example_in/reads/W55_V_1_4.fastq -o ./fastp/W55_V_1_4.trimmed -j ./fastp/W55_V_1_4_fastp.json -h ./fastp/W55_V_1_4_fastp.html 
+W55_V_2_1	fastp -i ./BayesASE/example_in/reads/W55_V_2_1.fastq -o ./fastp/W55_V_2_1.trimmed -j ./fastp/W55_V_2_1_fastp.json -h ./fastp/W55_V_2_1_fastp.html 
+W55_V_2_2	fastp -i ./BayesASE/example_in/reads/W55_V_2_2.fastq -o ./fastp/W55_V_2_2.trimmed -j ./fastp/W55_V_2_2_fastp.json -h ./fastp/W55_V_2_2_fastp.html 
+W55_V_2_3	fastp -i ./BayesASE/example_in/reads/W55_V_2_3.fastq -o ./fastp/W55_V_2_3.trimmed -j ./fastp/W55_V_2_3_fastp.json -h ./fastp/W55_V_2_3_fastp.html 
+W55_V_2_4	fastp -i ./BayesASE/example_in/reads/W55_V_2_4.fastq -o ./fastp/W55_V_2_4.trimmed -j ./fastp/W55_V_2_4_fastp.json -h ./fastp/W55_V_2_4_fastp.html 
+W55_V_3_1	fastp -i ./BayesASE/example_in/reads/W55_V_3_1.fastq -o ./fastp/W55_V_3_1.trimmed -j ./fastp/W55_V_3_1_fastp.json -h ./fastp/W55_V_3_1_fastp.html 
+W55_V_3_2	fastp -i ./BayesASE/example_in/reads/W55_V_3_2.fastq -o ./fastp/W55_V_3_2.trimmed -j ./fastp/W55_V_3_2_fastp.json -h ./fastp/W55_V_3_2_fastp.html 
+W55_V_3_3	fastp -i ./BayesASE/example_in/reads/W55_V_3_3.fastq -o ./fastp/W55_V_3_3.trimmed -j ./fastp/W55_V_3_3_fastp.json -h ./fastp/W55_V_3_3_fastp.html 
+W55_V_3_4	fastp -i ./BayesASE/example_in/reads/W55_V_3_4.fastq -o ./fastp/W55_V_3_4.trimmed -j ./fastp/W55_V_3_4_fastp.json -h ./fastp/W55_V_3_4_fastp.html 
